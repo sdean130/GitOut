@@ -1,0 +1,137 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 803;
+				- m_nBottom = 529;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "TopLevel";
+				- _name = "ActivityDiagram";
+				- _id = GUID 6612c58d-6328-4d93-a6cd-26e40fd2d1e9;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1428 834 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 1235;
+				- m_nBottom = 670;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "TopLevel";
+				- _name = "ActivityDiagram";
+				- _id = GUID c6ef79e9-6c4c-492b-b27d-fa1e0805a35d;
+			}
+			- _UpLeft = 478 70 ;
+			- _DownRight = 1971 752 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 622;
+				- m_nBottom = 687;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "TopLevel";
+				- _name = "ActivityDiagram";
+				- _id = GUID 28aee138-6b49-41f8-b475-ad2d3d785997;
+			}
+			- _UpLeft = 1003 430 ;
+			- _DownRight = 2012 1499 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 777;
+				- m_nBottom = 503;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID 63105bcf-437a-412c-85c4-391631b5af9f;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 714 417 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+	}
+	- _fullName = "C:\\Users\\EKUStudent\\Desktop\\ActivityDiagram\\ActivityDiagram";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0443261B-7AED-4156-AE28-90D08E828703}|">
+  <MonoDevelop.Ide.ItemProperties.GitOut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitOut/Account/Register.aspx">
+    <Files>
+      <File FileName="GitOut/Account/AddPhoneNumber.aspx" Line="1" Column="1" />
+      <File FileName="GitOut/ProjectPage.aspx" Line="1" Column="1" />
+      <File FileName="GitOut/MainMenu.aspx" Line="5" Column="110" />
+      <File FileName="GitOut/Site.Master" Line="39" Column="25" />
+      <File FileName="GitOut/Account/Register.aspx" Line="1" Column="1" />
+      <File FileName="GitOut/NewProject.aspx" Line="4" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

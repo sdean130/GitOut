@@ -1,0 +1,75 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler C++ 1159120
+{ ISubsystem 
+	- _id = GUID 914c463e-a8f7-4fae-8f71-b95dade8e621;
+	- _myState = 8192;
+	- _name = "GitOut";
+	- _objectCreation = "03035532820181632103100";
+	- _umlDependencyID = "2120";
+	- _theMainDiagram = { IHandle 
+		- _m2Class = "IDiagram";
+		- _filename = "";
+		- _subsystem = "";
+		- _class = "";
+		- _name = "Model1";
+		- _id = GUID 6a955ce6-9f68-4766-a887-9c3db25e47df;
+	}
+	- _lastID = 2;
+	- weakCGTime = 9.19.2018::19:53:34;
+	- strongCGTime = 9.19.2018::19:48:55;
+	- _defaultComposite = GUID 9407a7f0-06b4-48a0-ab41-750f65587ecd;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 2;
+		- value = 
+		{ IClass 
+			- _id = GUID 9407a7f0-06b4-48a0-ab41-750f65587ecd;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- _objectCreation = "03035732820181632101100";
+			- _umlDependencyID = "2327";
+			- weakCGTime = 9.19.2018::19:53:34;
+			- strongCGTime = 9.19.2018::19:48:55;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+		{ IClass 
+			- _id = GUID b4ab1e0f-a683-4820-abb4-8773bb091af9;
+			- _myState = 10240;
+			- _name = "interface_1";
+			- _objectCreation = "03035932820181632099100";
+			- _umlDependencyID = "2623";
+			- Stereotypes = { IRPYRawContainer 
+				- size = 1;
+				- value = 
+				{ IHandle 
+					- _m2Class = "IStereotype";
+					- _filename = "PredefinedTypes.sbs";
+					- _subsystem = "PredefinedTypes";
+					- _class = "";
+					- _name = "Interface";
+					- _id = GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1;
+				}
+			}
+			- _theMainDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID 6a955ce6-9f68-4766-a887-9c3db25e47df;
+			}
+			- weakCGTime = 9.19.2018::19:53:34;
+			- strongCGTime = 9.19.2018::19:53:34;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+

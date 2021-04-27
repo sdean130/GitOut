@@ -1,0 +1,13 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+
+- filesTable = { IRPYRawContainer 
+	- size = 6;
+	- value = "Projects.rpl" ""
+	"UseCaseCSC440.rpy" ""
+	"UseCaseCSC440_rpy\\Default.sbs" "Default"
+	"UseCaseCSC440_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"UseCaseCSC440_rpy\\GitOut.sbs" "GitOut"
+	"UseCaseCSC440_rpy\\package_8.sbs" "package_8"
+	
+}
+

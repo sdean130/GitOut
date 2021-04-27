@@ -1,0 +1,109 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 1313;
+				- m_nBottom = 561;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "class_0";
+				- _name = "StatechartDiagram";
+				- _id = GUID f4852ba7-10a4-4556-a486-d79e243ed72b;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1697 1066 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 1330;
+				- m_nBottom = 649;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Model1";
+				- _id = GUID 63bbb3f0-656d-453b-847d-9b133c36655d;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1241 537 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 1382;
+				- m_nBottom = 670;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "State";
+				- _id = GUID e1cb43a3-e50e-4264-b031-1afaf18d139c;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1267 532 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+	}
+	- _fullName = "C:\\Users\\sdean\\Desktop\\CSC 440\\Team Project\\StateDiagram\\StateDiagram";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

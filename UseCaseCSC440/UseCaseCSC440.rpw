@@ -1,0 +1,333 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 11;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 156;
+				- m_nTop = 156;
+				- m_nRight = 1302;
+				- m_nBottom = 753;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Create a project";
+				- _id = GUID 19f7ce44-f7c1-4ad3-8c9e-38e5b856d73a;
+			}
+			- _UpLeft = 0 10 ;
+			- _DownRight = 1478 699 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 6;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 817;
+				- m_nBottom = 451;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = "Default.sbs";
+				- _subsystem = "Default";
+				- _class = "TopLevel";
+				- _name = "ActivityDiagram";
+				- _id = GUID 3c1815ca-2095-4b8e-a603-9ccafc2a2599;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 702 293 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 9;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 765;
+				- m_nBottom = 399;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "DomainDiagram";
+				- _id = GUID 6a955ce6-9f68-4766-a887-9c3db25e47df;
+			}
+			- _UpLeft = 0 94 ;
+			- _DownRight = 702 407 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 11;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 156;
+				- m_nTop = 156;
+				- m_nRight = 1287;
+				- m_nBottom = 753;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Logout";
+				- _id = GUID b47ee3a0-ba62-448a-8907-f23b3852060f;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 900 545 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 130;
+				- m_nTop = 130;
+				- m_nRight = 1261;
+				- m_nBottom = 727;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "ModifyUserAccess";
+				- _id = GUID a35c46e5-57a4-4ace-95e3-4285df303452;
+			}
+			- _UpLeft = 295 0 ;
+			- _DownRight = 1389 517 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 182;
+				- m_nTop = 182;
+				- m_nRight = 921;
+				- m_nBottom = 586;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStructureDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Register";
+				- _id = GUID 4947b241-3f05-4cb4-94f1-efc3c4178caf;
+			}
+			- _UpLeft = 0 20 ;
+			- _DownRight = 702 364 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 8;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 221;
+				- m_nBottom = 640;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "User";
+				- _id = GUID e80fc261-5bb0-4c78-9625-9695bea87779;
+			}
+			- _UpLeft = 0 120 ;
+			- _DownRight = 132 648 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 10;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 1209;
+				- m_nBottom = 675;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "UserLead";
+				- _id = GUID 0820790c-9ca0-4dbc-9e23-8949debd9863;
+			}
+			- _UpLeft = 631 0 ;
+			- _DownRight = 1725 537 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 182;
+				- m_nTop = 182;
+				- m_nRight = 1328;
+				- m_nBottom = 779;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "downloadAVersion";
+				- _id = GUID a8ce6a8b-3a95-4392-8c8d-95faf625c925;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1478 689 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 5;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 130;
+				- m_nTop = 130;
+				- m_nRight = 1276;
+				- m_nBottom = 727;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "login";
+				- _id = GUID fd7ebc9e-0b2d-4566-a239-cbdfe01888c8;
+			}
+			- _UpLeft = 0 10 ;
+			- _DownRight = 1109 527 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 7;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 208;
+				- m_nTop = 208;
+				- m_nRight = 1354;
+				- m_nBottom = 805;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "upload a version";
+				- _id = GUID 1f801803-da87-468f-bc77-eee2d02cabe4;
+			}
+			- _UpLeft = 533 0 ;
+			- _DownRight = 2239 795 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 4;
+		}
+	}
+	- _fullName = "C:\\Users\\sdean\\Desktop\\CSC 440\\Team Project\\UseCaseCSC440\\UseCaseCSC440";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+
